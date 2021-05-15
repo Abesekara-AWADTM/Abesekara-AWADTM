@@ -11,5 +11,6 @@ I'm interesting to learning new web and mobile technologies.
 -📫 How to reach me:https://www.linkedin.com/in/thilini-abesekara/</br>
 -📖 Find my articles here:https://thiliniabesekara.medium.com/</br>
 
-<br>
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Abesekara-AWADTM)
+
+
+
