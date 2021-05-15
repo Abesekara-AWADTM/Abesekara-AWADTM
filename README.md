@@ -1,5 +1,5 @@
  👋 Hi, 
-I'm Thilini Abesekara. I am someone who is passionate about Web Development.I'm interesting to learning new web and mobile technologies.
+I'm Thilini Abesekara. I am someone who is passionate about Web Development. I'm interesting to learning new web and mobile technologies.
 
 - 🏫 I’m currently studing at University of Moratuwa.
 - 🎓 I’m currently reading for BSC Hons Information Technology and Management Degree.
