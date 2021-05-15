@@ -9,7 +9,6 @@ I'm Thilini Abesekara. I am someone who is passionate about Web Development.I'm 
 - 🎯 Skills:Project Management,UI designing,Time Management.
 - 📫 How to reach me:https://www.linkedin.com/in/thilini-abesekara/
 - 📖 Find my articles here:https://thiliniabesekara.medium.com/
--
 
 <!---
 Abesekara-AWADTM/Abesekara-AWADTM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
