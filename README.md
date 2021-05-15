@@ -2,10 +2,10 @@
 
 ![counter](https://en9zihyhtv85u02.m.pipedream.net)
 
-</br>
 <h1 align="center">👋 Hi,I'm Thilini Abesekara.</h1>
 I am someone who is passionate about Web Development. I'm interesting to learning new web and mobile technologies.
-</br>
+
+
 - 🏫 I’m currently studing at University of Moratuwa.
 - 🎓 I’m currently reading for BSC Hons Information Technology and Management Degree.
 - 💞️ I’m passionate in web app designing mobile app designing.
