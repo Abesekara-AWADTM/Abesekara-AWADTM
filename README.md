@@ -10,7 +10,7 @@ I am someone who is passionate about Web Development. I'm interesting to learnin
 - 🎓 I’m currently reading for BSC Hons Information Technology and Management Degree.
 - 💞️ I’m passionate in web app designing mobile app designing.
 - 📚 I’m currently learning Laravel.
-- 🎯 Skills:Project Management,UI designing,Time Management.
+- 🎯 Skills:Project Management, UI designing, Time Management.
 - 📫 How to reach me: thilinia.18@itfac.mrt.ac.lk
 - ⚡ Fun Fact: I like to read and interested in law.😋
 
