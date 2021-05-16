@@ -27,8 +27,6 @@ I am someone who is passionate about Web Development. I'm interesting to learnin
 <img src="https://github-readme-stats.vercel.app/api?username=Abesekara-AWADTM&&show_icons=true&count_private=true&theme=radical"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=Abesekara-AWADTM&theme=radical"/>|
 |---|---|
 
-<br>
-<br>
 ## TOP PROGRAMMING LANGUAGES
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abesekara-AWADTM&theme=radical&title_color=8E2DE2&text_color=fff)
 
