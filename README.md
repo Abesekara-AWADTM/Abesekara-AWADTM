@@ -29,7 +29,8 @@ I am someone who is passionate about Web Development. I'm interesting to learnin
 
 <br>
 <br>
-
+## TOP PROGRAMMING LANGUAGES
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abesekara-AWADTM&theme=radical&title_color=8E2DE2&text_color=fff)
 
 <h3 align="center">CONNECT WITH ME 😎 </h3>
 <p align="center">
