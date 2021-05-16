@@ -27,7 +27,8 @@ I am someone who is passionate about Web Development. I'm interesting to learnin
 <img src="https://github-readme-stats.vercel.app/api?username=Abesekara-AWADTM&&show_icons=true&count_private=true&theme=radical"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=Abesekara-AWADTM&theme=radical"/>|
 |---|---|
 
-
+<br>
+<br>
 
 
 <h3 align="center">CONNECT WITH ME 😎 </h3>
