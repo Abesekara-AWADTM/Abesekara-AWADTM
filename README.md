@@ -45,6 +45,10 @@
 src="https://github-readme-stats.vercel.app/api/top-langs?username=Abesekara-AWADTM&show_icons=true&locale=en&layout=compact&theme=radical"alt="Thiliniabesekara" /></p>
 
 </br>
+
+<!--[radical_repo]: https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=radical-->
+
+</br>
 <h3 align="center"><img src="https://media.giphy.com/media/4Z5uQumuMqcH1kNU5c/giphy.gif" height="170"> CONNECT WITH ME  <img src="https://media.giphy.com/media/9JACQbrcPg6rZopCty/giphy.gif" height="150"> </h3>
 </br>
 <p align="center">
