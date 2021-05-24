@@ -2,8 +2,8 @@
 
 ![counter](https://en9zihyhtv85u02.m.pipedream.net)
 
-<h1 align="center">👋 Hi, I'm Thilini Abesekara.</h1>
- <h3 align="center">I am a resposible and harworking undergraduate with a positive mind set. I am someone who is passionate about Web Development.</h3>
+<h1 align="center">👋 Hi, I'm  Thilini Abesekara.</h1>
+ <h3 align="center">I am a resposible and harworking undergraduate with a positive mind set. I am someone who is passionate about  Web Development.</h3>
  </br>
 <p align="Center" > <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Abesekara-AWADTM&&count_private=true&no-bg-true&theme=radical" alt="ThiliniAbesekara" /></a></p>
 </br>
@@ -12,7 +12,7 @@
 - 🏫 I’m currently studing at University of Moratuwa.
 - 🎓 I’m currently reading for BSC Hons Information Technology and Management Degree.
 - 💞️ I’m passionate in web app designing mobile app designing.
-- 📚 I’m currently learning Laravel.
+- 📚 I’m currently learning **Laravel**.
 - 🎯 Skills: UI / UX Designing, Time Management, Project Management.
 - 📫 How to reach me : thilinia.18@itfac.mrt.ac.lk
 - ⚡ Fun Fact : I like to read and interested in law.😋
