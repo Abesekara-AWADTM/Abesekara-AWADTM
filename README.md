@@ -7,6 +7,7 @@
  </br>
 <p align="Center" > <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Abesekara-AWADTM&&count_private=true&no-bg-true&theme=radical" alt="ThiliniAbesekara" /></a></p>
 </br>
+</br>
 
 - 🏫 I’m currently studing at University of Moratuwa.
 - 🎓 I’m currently reading for BSC Hons Information Technology and Management Degree.
