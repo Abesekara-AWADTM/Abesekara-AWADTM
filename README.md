@@ -2,7 +2,7 @@
 
 ![counter](https://en9zihyhtv85u02.m.pipedream.net)
 
-<h1 align="center">👋 Hi, I'm  Thilini Abesekara.</h1>
+<h1 align="center">👋 Hi, I'm  Thilini Abesekara </h1>
  <h3 align="center">I am a resposible and harworking undergraduate with a positive mind set. I am someone who is passionate about  Web Development.</h3>
  </br>
 <p align="Center" > <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Abesekara-AWADTM&&count_private=true&no-bg-true&theme=radical" alt="ThiliniAbesekara" /></a></p>
