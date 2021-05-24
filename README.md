@@ -18,15 +18,16 @@
 
 
 ## LANGUAGES AND TOOLS:
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/adobe-xd/adobe-xd.svg">
-</code>
+
+</br>
+
+<a href="" target="_blank"> <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="mysql" width="80" height="75"/> </a>
+<a href="" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="mysql" width="80" height="75"/> </a>
+<a href="" target="_blank"> <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="mysql" width="80" height="75"/> </a>
+<a href="" target="_blank"> <img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="mysql" width="80" height="75"/> </a>
+<a href="" target="_blank"> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="mysql" width="80" height="75"/> </a>
+<a href="" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="mysql" width="80" height="75"/> </a>
+<a href="" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="80" height="75" /> </a>
 
 </br>
 
@@ -44,19 +45,12 @@ src="https://github-readme-stats.vercel.app/api/top-langs?username=Abesekara-AWA
 
 </br>
 
-<h3 align="center">CONNECT WITH ME 😎 </h3>
+<h3 align="center"><img src="https://media.giphy.com/media/n8TA68l4p510E2VxvA/giphy.gif" height="50"> CONNECT WITH ME  <img src="https://media.giphy.com/media/n8TA68l4p510E2VxvA/giphy.gif" height="50"> </h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/thilini-abesekara/"> 
- <img src="./linkdin.png" alt="linkedin" height="40" style="vertical-align:top; margin:10px">
- </a>
-  <a href="https://www.facebook.com/thilini.abesekara.1/" target="_blank" rel="noopener noreferrer"> 
-<img src="./Facebook.png" alt="facebook" height="40" style="vertical-align:top; margin:10px">
-</a>
-  <a href="https://thiliniabesekara.medium.com/"> 
-<img src="./medium.png" alt="medium" height="40" style="vertical-align:top; margin:10px">
-</a>
+<a href="https://www.facebook.com/thilini.abesekara.1/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" alt="facebook" width="40" height="40"/> </a>
+<a href="https://www.linkedin.com/in/thilini-abesekara/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="linkedin" width="40" height="40"/> </a>
+<a href="https://thiliniabesekara.medium.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/medium/medium-icon.svg" alt="medium" width="40" height="40"/> </a>
 </p>
-
 
             
 
