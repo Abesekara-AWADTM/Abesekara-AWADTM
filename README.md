@@ -45,7 +45,6 @@
 src="https://github-readme-stats.vercel.app/api/top-langs?username=Abesekara-AWADTM&show_icons=true&locale=en&layout=compact&theme=radical"alt="Thiliniabesekara" /></p>
 
 </br>
-
 <h3 align="center"><img src="https://media.giphy.com/media/n8TA68l4p510E2VxvA/giphy.gif" height="50"> CONNECT WITH ME  <img src="https://media.giphy.com/media/n8TA68l4p510E2VxvA/giphy.gif" height="50"> </h3>
 <p align="center">
 <a href="https://www.facebook.com/thilini.abesekara.1/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" alt="facebook" width="40" height="40"/> </a>
