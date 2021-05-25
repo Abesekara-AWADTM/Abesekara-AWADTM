@@ -31,7 +31,7 @@
 <a href="" target="_blank"> <img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="mysql" width="80" height="75"/> </a>
 <a href="" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="mysql" width="80" height="75"/> </a>
 <a href="" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="80" height="75" /> </a>
- 
+
 </br>
 
 ## GIT STATS
