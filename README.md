@@ -23,13 +23,15 @@
 </br>
 
 <a href="" target="_blank"> <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="mysql" width="80" height="75"/> </a>
+ <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="80" height="80"/> </a>
 <a href="" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="mysql" width="80" height="75"/> </a>
+ <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="80" height="75"/> </a> 
 <a href="" target="_blank"> <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="mysql" width="80" height="75"/> </a>
-<a href="" target="_blank"> <img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="mysql" width="80" height="75"/> </a>
 <a href="" target="_blank"> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="mysql" width="80" height="75"/> </a>
+<a href="" target="_blank"> <img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="mysql" width="80" height="75"/> </a>
 <a href="" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="mysql" width="80" height="75"/> </a>
 <a href="" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="80" height="75" /> </a>
-
+ 
 </br>
 
 ## GIT STATS
