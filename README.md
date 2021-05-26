@@ -3,8 +3,8 @@
 ![counter](https://en9zihyhtv85u02.m.pipedream.net)
 
 <h1 align="center">👋 Hi, I'm  Thilini Abesekara </h1>
- <h3 align="center">I am a resposible and harworking undergraduate with a positive mind set. I am someone who is passionate about  Web Development.</h3>
- </br>
+<h3 align="center">I am a resposible and harworking undergraduate with a positive mind set. I am someone who is passionate about  Web Development.</h3>
+</br>
 <p align="Center" > <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Abesekara-AWADTM&&count_private=true&no-bg-true&theme=radical" alt="ThiliniAbesekara" /></a></p>
 </br>
 </br>
@@ -23,9 +23,9 @@
 </br>
 
 <a href="" target="_blank"> <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="mysql" width="80" height="75"/> </a>
- <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="80" height="80"/> </a>
+<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="80" height="80"/> </a>
 <a href="" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="mysql" width="80" height="75"/> </a>
- <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="80" height="75"/> </a> 
+<a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="80" height="75"/> </a> 
 <a href="" target="_blank"> <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="mysql" width="80" height="75"/> </a>
 <a href="" target="_blank"> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="mysql" width="80" height="75"/> </a>
 <a href="" target="_blank"> <img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="mysql" width="80" height="75"/> </a>
