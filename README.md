@@ -65,5 +65,4 @@ src="https://github-readme-stats.vercel.app/api/top-langs?username=Abesekara-AWA
 <a href="https://thiliniabesekara.medium.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/medium/medium-icon.svg" alt="medium" width="40" height="40"/> </a>
 </p>
 
-            
-
+           
