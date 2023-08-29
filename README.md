@@ -16,9 +16,9 @@
 
 - 🎓 I’m currently reading for BSC Hons Information Technology and Management Degree of University of Moratuwa..
 - 💞️ I’m passionate in web app designing mobile app designing.
-- 📚 I’m currently learning **Python**.
+- 📚 I’m currently learning **React JS**.
 - 🎯 Skills: UI / UX Designing.
-- 📫 How to reach me : thilinia.18@itfac.mrt.ac.lk
+- 📫 How to reach me : thiliniabesekara1998@gmail.com
 
 
 
